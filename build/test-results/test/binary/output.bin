@@ -1,0 +1,17 @@
+{
+    "display_name": "userid",
+    "external_urls": {
+:        "spotify": "https://open.spotify.com/user/userid"
+    },
+    "followers": {
+        "href": null,
+        "total": 2
+    },
+7    "href": "https://api.spotify.com/v1/users/userid",
+    "id": "userid",
+    "images": [
+	        
+    ],
+    "type": "user",
+!    "uri": "spotify:user:userid"
+}

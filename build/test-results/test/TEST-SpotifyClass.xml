@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SpotifyClass" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-07T14:31:34" hostname="admin1-HP-EliteBook-Folio-9480m" time="1.922">
+  <properties/>
+  <testcase name="givenCodingCafeLogin_WhenTokenIsCorrect_shouldReturnSuccesscode" classname="SpotifyClass" time="1.922"/>
+  <system-out><![CDATA[{
+    "display_name": "userid",
+    "external_urls": {
+        "spotify": "https://open.spotify.com/user/userid"
+    },
+    "followers": {
+        "href": null,
+        "total": 2
+    },
+    "href": "https://api.spotify.com/v1/users/userid",
+    "id": "userid",
+    "images": [
+        
+    ],
+    "type": "user",
+    "uri": "spotify:user:userid"
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
